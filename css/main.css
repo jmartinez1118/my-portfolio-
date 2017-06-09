@@ -1,0 +1,47 @@
+
+
+.about-p {
+	letter-spacing: 1.0;
+	line-height: 1.9;
+	font-family: "Source Sans Pro";
+	text-align: left;
+	color: #292d26;
+
+}
+
+.about-h1, .about-h3 {
+	font-family: "Gudea", sans-serif;
+	text-align: left;
+	color: #292d26;
+}
+
+.about-h3 {
+	font-size: 30px;
+}
+
+.portfolio-h1 {
+	font-family: "Gudea", sans-serif;
+	color: #292d26;
+}
+
+#contact{
+	background: white;
+	color: #292d26;
+	padding-bottom:80px;
+}
+
+.contact-p {
+	width: 60%;
+	margin: 0 auto;
+	padding: 10px;
+	color: #292d26;
+}
+
+.contact-h2 {
+	font-family: "Gudea", sans-serif;
+    color: #292d26;
+}
+
+textarea.form-control{
+    height:100px;
+}
